@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tikhaf-app/static/css/main.b7cb1c27.chunk.css",
+    "main.js": "/tikhaf-app/static/js/main.d837de59.chunk.js",
+    "main.js.map": "/tikhaf-app/static/js/main.d837de59.chunk.js.map",
+    "runtime-main.js": "/tikhaf-app/static/js/runtime-main.15f16f1f.js",
+    "runtime-main.js.map": "/tikhaf-app/static/js/runtime-main.15f16f1f.js.map",
+    "static/js/2.ba8f3fdc.chunk.js": "/tikhaf-app/static/js/2.ba8f3fdc.chunk.js",
+    "static/js/2.ba8f3fdc.chunk.js.map": "/tikhaf-app/static/js/2.ba8f3fdc.chunk.js.map",
+    "static/js/3.bcc36f16.chunk.js": "/tikhaf-app/static/js/3.bcc36f16.chunk.js",
+    "static/js/3.bcc36f16.chunk.js.map": "/tikhaf-app/static/js/3.bcc36f16.chunk.js.map",
+    "index.html": "/tikhaf-app/index.html",
+    "static/css/main.b7cb1c27.chunk.css.map": "/tikhaf-app/static/css/main.b7cb1c27.chunk.css.map",
+    "static/js/2.ba8f3fdc.chunk.js.LICENSE.txt": "/tikhaf-app/static/js/2.ba8f3fdc.chunk.js.LICENSE.txt",
+    "static/media/masjid.e0627146.jpg": "/tikhaf-app/static/media/masjid.e0627146.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.15f16f1f.js",
+    "static/js/2.ba8f3fdc.chunk.js",
+    "static/css/main.b7cb1c27.chunk.css",
+    "static/js/main.d837de59.chunk.js"
+  ]
+}
